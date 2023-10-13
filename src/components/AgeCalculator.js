@@ -19,7 +19,7 @@ const AgeCalculator = () => {
   };
   const buttonstyle={
     backgroundColor:'skyblue',
-    width:'100px',
+    width:'150px',
     height:'30px',
   }
   const input={
